@@ -1,4 +1,6 @@
-## Hi there 👋
+# Parthiv Kangsabanik
+## Hi there👋 
+I'm Parthiv, a third-year Computer Science Student at ETH Zurich. I’m currently working on my bachelor's thesis, "Football Team Selection based on Past Performance", where I am exploring quantitative methods to gain an extra edge over opponents.
 
 <!--
 **parthiv-dev/parthiv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
