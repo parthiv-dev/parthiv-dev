@@ -1,6 +1,6 @@
 # Parthiv Kangsabanik
 ## Hi there👋 
-I'm Parthiv, a third-year Computer Science Student at ETH Zurich. I’m currently working on my bachelor's thesis, "Football Team Selection based on Past Performance", where I am exploring quantitative methods to gain an extra edge over opponents.
+I’m a Master’s student in Computer Science at ETH Zurich and part of the Portfolio Management Program at the University of Zurich. I’m interested in quantitative finance, statistics, and machine learning, and currently work on systematic trading strategies, financial data analysis, and quantitative research.
 
 In the near future, I will gradually upload all my existing projects to this GitHub profile.
 
